@@ -6,7 +6,7 @@ Este repositório contém todos os projetos desenvolvidos nas disciplinas de **C
 
 O desenvolvimento dos projetos 1, 2 e 3 seguem a sequência clássica de um compilador:
 
-1. **Análise Léxica** → **Análise Sintática** → **Análise Semântica** → **Geração de Código**
+**Análise Léxica** → **Análise Sintática** → **Análise Semântica** → **Geração de Código**
 
 ### Projetos
 
