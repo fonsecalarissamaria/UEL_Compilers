@@ -2,9 +2,9 @@
 
 Este repositório contém todos os projetos desenvolvidos nas disciplinas de **Compiladores I** e **Compiladores II** do curso de **Ciência da Computação** na Universidade Estadual de Londrina (UEL). O foco principal é a implementação das etapas de um compilador, desde a análise léxica até a geração de código.
 
-## Estrutura do Repositório
+## Etapas de um Compilador 
 
-O desenvolvimento segue a sequência clássica de um compilador:
+O desenvolvimento dos projetos 1, 2 e 3 seguem a sequência clássica de um compilador:
 
 1. **Análise Léxica** → **Análise Sintática** → **Análise Semântica** → **Geração de Código**
 
