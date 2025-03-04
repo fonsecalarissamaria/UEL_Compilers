@@ -16,10 +16,10 @@ Projeto desenvolvido durante o quinto semestre da graduação. Implementa a aná
 #### Analisador Sintático
 Expande o analisador léxico com uma análise sintática utilizando **Flex** e **Bison**, permitindo a detecção de erros gramaticais na entrada.
 
-#### 5. Portugol em C
+#### Portugol em C
 Projeto independente que implementa um interpretador para uma versão simplificada do **Portugol**, utilizando **C** para a análise léxica e sintática.
 
-#### 4. Gerador de Código
+#### Gerador de Código
 Módulo final do compilador desenvolvido durante o sexto semestre da graduação, que transforma a representação intermediária em código executável ou em outra linguagem intermediária.
 
 
