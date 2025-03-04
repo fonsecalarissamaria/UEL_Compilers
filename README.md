@@ -10,20 +10,18 @@ O desenvolvimento segue a sequência clássica de um compilador:
 
 ### Projetos
 
-#### 1. Analisador Léxico
+#### Analisador Léxico
 Projeto desenvolvido durante o quinto semestre da graduação. Implementa a análise léxica utilizando a ferramenta **Flex** para identificar tokens da linguagem alvo.
 
-#### 2. Analisador Sintático
+#### Analisador Sintático
 Expande o analisador léxico com uma análise sintática utilizando **Flex** e **Bison**, permitindo a detecção de erros gramaticais na entrada.
 
-#### 3. Analisador Semântico
-Complementa o analisador sintático com regras semânticas, garantindo a coerência dos programas analisados. Desenvolvido com **Flex** e **Bison**.
-
-#### 4. Gerador de Código
-Módulo final do compilador, que transforma a representação intermediária em código executável ou em outra linguagem intermediária.
-
-#### 5. Portugol em C
+#### Portugol em C
 Projeto independente que implementa um interpretador para uma versão simplificada do **Portugol**, utilizando **C** para a análise léxica e sintática.
+
+#### Gerador de Código
+Módulo final do compilador desenvolvido durante o sexto semestre da graduação, que transforma a representação intermediária em código executável ou em outra linguagem intermediária.
+
 
 ## Tecnologias Utilizadas
 - **C**
